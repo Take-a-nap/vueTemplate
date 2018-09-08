@@ -1,0 +1,3 @@
+
+export const HOME_BANNER_LIST = "HOME_BANNER_LIST"
+export const HOME_PRO_LIST = "HOME_PRO_LIST"
